@@ -5,3 +5,6 @@ __pycache__/
 *.csv
 *.pkl
 *.pt
+videos/
+*.webm
+*.mp4
