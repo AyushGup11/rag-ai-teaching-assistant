@@ -1,0 +1,7 @@
+rag_gpu/
+venv/
+env/
+__pycache__/
+*.csv
+*.pkl
+*.pt
