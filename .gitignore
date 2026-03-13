@@ -8,3 +8,10 @@ __pycache__/
 videos/
 *.webm
 *.mp4
+videos/
+*.webm
+*.mp4
+venv/
+env/
+rag_gpu/
+__pycache__/
