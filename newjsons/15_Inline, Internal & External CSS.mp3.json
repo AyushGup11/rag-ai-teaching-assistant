@@ -1,0 +1,306 @@
+{
+    "chunks": [
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 0.0,
+            "end": 21.0,
+            "text": " In this video we will see how to add a CSS to an HTML page.  CSS is used in HTML for 3 ways.  The first way is to use the first way to add CSS to the HTML page.  Now we have the internal CSS.  The internal CSS means to tag the style and add the CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 21.0,
+            "end": 41.0,
+            "text": " the style tag in the CSS page.  And the most useful thing is the external CSS.  The internal CSS means to tag the style and add the CSS to the CSS page.  In this video we will see how to use the CSS and how to avoid the CSS.  I am very excited to make this video like and share it with your friends."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 41.0,
+            "end": 64.0,
+            "text": " And do not forget to write a sign in the comments section.  Let's go to the computer stream.  Let's go to the computer stream.  So in 3 ways you will see how to add CSS to an HTML page.  I will do the first thing here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 64.0,
+            "end": 80.0,
+            "text": " I will make a video with a folder called Video15.  I will click on the Shift and record it.  And make a index.html and add a boilerplate template.  If you do not have a playlist access, you will need to access it.  You will need to access it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 80.0,
+            "end": 98.0,
+            "text": " Now I will come back to my video 15 HTML code.  I have got a basic HTML.  I have written, I am a good boy.  And after that I have written a catch one.  And I have written, I have put a paragraph in the Dev."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 98.0,
+            "end": 111.0,
+            "text": " Everyone is good.  In some way or the other.  Does this even make any sense?  I have written it.  I will drag the toggle word here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 111.0,
+            "end": 124.0,
+            "text": " I will not write the Shift and I will write it.  I will go to the command palette and toggle the screen.  You listen to me carefully.  Look, if I want to style it,  then it will be a very short and I will go in a very short way."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 124.0,
+            "end": 137.0,
+            "text": " I have a very quick and dirty way.  I have a style tag here.  First of all, let's preview it and see how it is.  I have zoomed in to show you.  But you will see it like this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 137.0,
+            "end": 146.0,
+            "text": " It is fine.  But I will zoom and see what you will see.  Now I have written about it.  I want to yellow it.  And red it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 146.0,
+            "end": 156.0,
+            "text": " For some weird reason.  Let's do it.  I have a very quick and dirty way.  I will put a style attribute.  I will write here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 156.0,
+            "end": 168.0,
+            "text": " I will write yellow.  And you see, my VS code is helping me.  I am supporting it.  I am thinking about what I am doing.  And that's one of the reasons we are using VS code."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 168.0,
+            "end": 178.0,
+            "text": " You get support in some IDE.  You get support in this way.  This is the reason we don't coding in node pad.  People have asked me about starting the game.  Why don't we do node pad?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 178.0,
+            "end": 188.0,
+            "text": " Why don't we do node pad?  Now let's add another property.  Let me show you that this property is applied.  You see, this color is applied.  Now let's red it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 188.0,
+            "end": 198.0,
+            "text": " Background color.  Red.  And background will also be red.  I want to do whatever I want.  I can do that."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 198.0,
+            "end": 208.0,
+            "text": " I want to add individual elements.  I can do that.  Now this is not considered a good practice.  It doesn't mean a good practice.  Why not?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 208.0,
+            "end": 218.0,
+            "text": " I will tell you in a few days.  But I will tell you two more ways.  Add CSS to a web page.  I will do one thing.  I will write the title of this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 218.0,
+            "end": 230.0,
+            "text": " I will write the title.  3 ways to add CSS to HTML.  I will use the first method.  I will use the first method.  I will use the first method."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 230.0,
+            "end": 240.0,
+            "text": " I will write an old list item.  I will write the first method.  Inline CSS.  I will tell you about the online CSS.  It is said that"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 240.0,
+            "end": 254.0,
+            "text": " any element is given to the style attribute.  What will happen?  The CSS applied in the element.  It is said that  we have already written the first method."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 254.0,
+            "end": 264.0,
+            "text": " I will tell you the second method.  I will write the second method.  The second method is the internal CSS.  It is said that  don't do that."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 264.0,
+            "end": 274.0,
+            "text": " I will replicate it.  I will add this.  Don't do that.  Write a style tag.  Don't confuse me."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 274.0,
+            "end": 287.0,
+            "text": " Listen carefully.  Write a style tag.  Write all the declaration  on the folder that you have called as H1.  Do all these H1 in the case of Etony color."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 287.0,
+            "end": 300.8,
+            "text": " What to do?  background template and\u754c.  Drag both failed picture taken and omitted thread.  In general i lost the color.  Regardless ofanna, this is pen Considering Tjine."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 300.8,
+            "end": 319.6,
+            "text": " I will explain about Cloud smiled.  or effect RAM.  I was the first one to be the same, but how is this different from online CSS?  In online CSS, I have to add all the elements to the style.  So, if you want to add 100H1, you can do it automatically."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 319.6,
+            "end": 338.6,
+            "text": " But here, individually, I have to do the style equal to, style equal to, style equal to,  I have to do it repeatedly.  I have done it repeatedly.  I have added all the elements to the style equal to, now I have to change the model.  For some reason, I have told the boss that in our production website,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 338.6,
+            "end": 361.6,
+            "text": " background color is not red, background color is to be red.  So, I will do all the elements and I will do all the elements and I will not do red at all.  I want to edit the model and if I am doing the internal CSS,  and I am not doing the online CSS, then I can edit the model.  I want to do red at all and I will do all the elements and the way I do it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 361.6,
+            "end": 387.6,
+            "text": " But if I have written all the elements in the style equal to, style equal to, style equal to,  then I will have to do all the elements and then I will have to do it individually.  So, this is why I don't use the same method in online CSS.  But in online CSS, you should know why it is possible to use it like this.  You can do it in internal or the most useful way."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 387.6,
+            "end": 403.6,
+            "text": " I will tell you about the external CSS.  Now, the idea of external CSS is that if you are writing internal CSS,  then your style will grow.  I mean, I am writing CSS, I am writing, I am writing.  So, your HTML file will grow, it will grow, it will grow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 403.6,
+            "end": 416.6,
+            "text": " So, why not write the CSS here?  Why not write the CSS in a file?  That's the idea of external CSS.  Write the things you are writing here, don't write here.  Write in a file."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 416.6,
+            "end": 430.6,
+            "text": " So, we will use a link tag.  I will write the colon CSS, so this shortcut will be written in some way.  So, I am saying that I have written the CSS in my CSS.  What I am doing?  I have written the CSS in my CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 430.6,
+            "end": 447.6,
+            "text": " Go there and see.  Okay, I have done it in some way.  Okay, so, here I will show you that I can write the CSS in some way.  I will write the CSS in a style, and I will put the styles in it.  Now, I will show you that the styles have been set up by the way."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 447.6,
+            "end": 461.6,
+            "text": " There is no background right in here, there is no HTML, but I will add it here.  So, I have left the CSS in this style, I have left the link here.  So, what does the link tag do?  The link says that, as a style sheet, let the CSS link to it.  So, what will happen?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 461.6,
+            "end": 476.6,
+            "text": " This CSS will be set up on my page.  It's as simple as that, okay?  I hope you have understood everything.  And you have understood everything very clearly.  What is the difference between the online CSS and the external CSS?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 476.6,
+            "end": 494.6,
+            "text": " Now, I will tell you about the concept of which CSS you want to use.  Look, online CSS is not to be used by the users.  I am saying that, I am not using the online CSS in ideal scenarios.  But online CSS is automatically generated.  So, I will tell you in the next one."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 494.6,
+            "end": 509.6,
+            "text": " Now, you don't have to confuse me.  Now, as a beginner, you understand that online CSS is not to be used by the user.  In fact, you have to avoid it.  You will use the internal CSS when your web page is very small.  And you have to write a little bit different CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 509.6,
+            "end": 529.6,
+            "text": " As I tell you a good use, I will use the internal CSS.  When I used to write websites in bootstrap, I would have been using all the bootstrap in my website.  But I had to tweak it for a while.  I used to use the internal CSS.  You will use the external CSS when you are making a big production grade website."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 529.6,
+            "end": 547.6,
+            "text": " And in most of the cases, if you are working on a serious project,  you will be making a production grade website.  And if you are making a production grade website,  then you will be able to use the best practices.  And using the external style sheet is considered a good practice."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 548.6,
+            "end": 569.6,
+            "text": " Because you can detach a style sheet from a HTML or a touch.  You can say that you work on a style sheet and work on a HTML.  So, you can work on a style sheet and work on a HTML.  So, you can work on a lot of things.  This way, things get easily done."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 569.6,
+            "end": 586.6,
+            "text": " If you are using external style sheet, and in most of the cases,  you can go to any kind of production grade project.  You have written a big website,  Chai, Viro, Netflix, YouTube, or Kora, or Facebook, or Instagram.  What's up, I am anything."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 586.6,
+            "end": 606.6,
+            "text": " In most of the cases, in all the websites, you will get an external style sheet.  So, you were able to revision the entire CSS.  You wrote the entire CSS in the element, and you wrote the internal CSS.  You wrote the entire CSS and the external CSS.  You wrote a style sheet or any name, CSS, or any file,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 606.6,
+            "end": 624.6,
+            "text": " and you wrote a CSS file.  I hope you all will get a different theme.  And I know that I am going little slower.  Because there are many people in this course, I am going to repeat the same thing.  We are going to make a lot of production grade websites."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 624.6,
+            "end": 634.6,
+            "text": " So, you all are excited about this.  Please let me know in the comments section.  If you haven't done this playlist access yet,  then you will definitely be able to do this.  I will update you all in Source Code."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS",
+            "start": 634.6,
+            "end": 660.6,
+            "text": " Don't forget to subscribe to my channel.  Thank you so much for watching this video.  And I will see you next time.  Bye."
+        }
+    ],
+    "text": " In this video we will see how to add a CSS to an HTML page. CSS is used in HTML for 3 ways. The first way is to use the first way to add CSS to the HTML page. Now we have the internal CSS. The internal CSS means to tag the style and add the CSS, the style tag in the CSS page. And the most useful thing is the external CSS. The internal CSS means to tag the style and add the CSS to the CSS page. In this video we will see how to use the CSS and how to avoid the CSS. I am very excited to make this video like and share it with your friends. And do not forget to write a sign in the comments section. Let's go to the computer stream. Let's go to the computer stream. So in 3 ways you will see how to add CSS to an HTML page. I will do the first thing here. I will make a video with a folder called Video15. I will click on the Shift and record it. And make a index.html and add a boilerplate template. If you do not have a playlist access, you will need to access it. You will need to access it. Now I will come back to my video 15 HTML code. I have got a basic HTML. I have written, I am a good boy. And after that I have written a catch one. And I have written, I have put a paragraph in the Dev. Everyone is good. In some way or the other. Does this even make any sense? I have written it. I will drag the toggle word here. I will not write the Shift and I will write it. I will go to the command palette and toggle the screen. You listen to me carefully. Look, if I want to style it, then it will be a very short and I will go in a very short way. I have a very quick and dirty way. I have a style tag here. First of all, let's preview it and see how it is. I have zoomed in to show you. But you will see it like this. It is fine. But I will zoom and see what you will see. Now I have written about it. I want to yellow it. And red it. For some weird reason. Let's do it. I have a very quick and dirty way. I will put a style attribute. I will write here. I will write yellow. And you see, my VS code is helping me. I am supporting it. I am thinking about what I am doing. And that's one of the reasons we are using VS code. You get support in some IDE. You get support in this way. This is the reason we don't coding in node pad. People have asked me about starting the game. Why don't we do node pad? Why don't we do node pad? Now let's add another property. Let me show you that this property is applied. You see, this color is applied. Now let's red it. Background color. Red. And background will also be red. I want to do whatever I want. I can do that. I want to add individual elements. I can do that. Now this is not considered a good practice. It doesn't mean a good practice. Why not? I will tell you in a few days. But I will tell you two more ways. Add CSS to a web page. I will do one thing. I will write the title of this. I will write the title. 3 ways to add CSS to HTML. I will use the first method. I will use the first method. I will use the first method. I will write an old list item. I will write the first method. Inline CSS. I will tell you about the online CSS. It is said that any element is given to the style attribute. What will happen? The CSS applied in the element. It is said that we have already written the first method. I will tell you the second method. I will write the second method. The second method is the internal CSS. It is said that don't do that. I will replicate it. I will add this. Don't do that. Write a style tag. Don't confuse me. Listen carefully. Write a style tag. Write all the declaration on the folder that you have called as H1. Do all these H1 in the case of Etony color. What to do? background template and\u754c. Drag both failed picture taken and omitted thread. In general i lost the color. Regardless ofanna, this is pen Considering Tjine. I will explain about Cloud smiled. or effect RAM. I was the first one to be the same, but how is this different from online CSS? In online CSS, I have to add all the elements to the style. So, if you want to add 100H1, you can do it automatically. But here, individually, I have to do the style equal to, style equal to, style equal to, I have to do it repeatedly. I have done it repeatedly. I have added all the elements to the style equal to, now I have to change the model. For some reason, I have told the boss that in our production website, background color is not red, background color is to be red. So, I will do all the elements and I will do all the elements and I will not do red at all. I want to edit the model and if I am doing the internal CSS, and I am not doing the online CSS, then I can edit the model. I want to do red at all and I will do all the elements and the way I do it. But if I have written all the elements in the style equal to, style equal to, style equal to, then I will have to do all the elements and then I will have to do it individually. So, this is why I don't use the same method in online CSS. But in online CSS, you should know why it is possible to use it like this. You can do it in internal or the most useful way. I will tell you about the external CSS. Now, the idea of external CSS is that if you are writing internal CSS, then your style will grow. I mean, I am writing CSS, I am writing, I am writing. So, your HTML file will grow, it will grow, it will grow. So, why not write the CSS here? Why not write the CSS in a file? That's the idea of external CSS. Write the things you are writing here, don't write here. Write in a file. So, we will use a link tag. I will write the colon CSS, so this shortcut will be written in some way. So, I am saying that I have written the CSS in my CSS. What I am doing? I have written the CSS in my CSS. Go there and see. Okay, I have done it in some way. Okay, so, here I will show you that I can write the CSS in some way. I will write the CSS in a style, and I will put the styles in it. Now, I will show you that the styles have been set up by the way. There is no background right in here, there is no HTML, but I will add it here. So, I have left the CSS in this style, I have left the link here. So, what does the link tag do? The link says that, as a style sheet, let the CSS link to it. So, what will happen? This CSS will be set up on my page. It's as simple as that, okay? I hope you have understood everything. And you have understood everything very clearly. What is the difference between the online CSS and the external CSS? Now, I will tell you about the concept of which CSS you want to use. Look, online CSS is not to be used by the users. I am saying that, I am not using the online CSS in ideal scenarios. But online CSS is automatically generated. So, I will tell you in the next one. Now, you don't have to confuse me. Now, as a beginner, you understand that online CSS is not to be used by the user. In fact, you have to avoid it. You will use the internal CSS when your web page is very small. And you have to write a little bit different CSS. As I tell you a good use, I will use the internal CSS. When I used to write websites in bootstrap, I would have been using all the bootstrap in my website. But I had to tweak it for a while. I used to use the internal CSS. You will use the external CSS when you are making a big production grade website. And in most of the cases, if you are working on a serious project, you will be making a production grade website. And if you are making a production grade website, then you will be able to use the best practices. And using the external style sheet is considered a good practice. Because you can detach a style sheet from a HTML or a touch. You can say that you work on a style sheet and work on a HTML. So, you can work on a style sheet and work on a HTML. So, you can work on a lot of things. This way, things get easily done. If you are using external style sheet, and in most of the cases, you can go to any kind of production grade project. You have written a big website, Chai, Viro, Netflix, YouTube, or Kora, or Facebook, or Instagram. What's up, I am anything. In most of the cases, in all the websites, you will get an external style sheet. So, you were able to revision the entire CSS. You wrote the entire CSS in the element, and you wrote the internal CSS. You wrote the entire CSS and the external CSS. You wrote a style sheet or any name, CSS, or any file, and you wrote a CSS file. I hope you all will get a different theme. And I know that I am going little slower. Because there are many people in this course, I am going to repeat the same thing. We are going to make a lot of production grade websites. So, you all are excited about this. Please let me know in the comments section. If you haven't done this playlist access yet, then you will definitely be able to do this. I will update you all in Source Code. Don't forget to subscribe to my channel. Thank you so much for watching this video. And I will see you next time. Bye."
+}

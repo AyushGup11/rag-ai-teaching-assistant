@@ -1,0 +1,7 @@
+If you're looking for information on where semantic tags are taught in this course, I'd recommend checking out video 11.
+
+In that video, we start discussing semantic tags at around 0:23 seconds and then dive deeper into it from 0:20-0:40. 
+
+To be more specific, the instructor explains the importance of using semantic tags for SEO purposes starting at 0:23:06, and they also go over an example of a footer tag, which could have been achieved with just a div but is instead used with the semantic footer tag.
+
+I hope that helps you locate where this topic was covered in our course!

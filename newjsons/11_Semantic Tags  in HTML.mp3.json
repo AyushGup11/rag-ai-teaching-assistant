@@ -1,0 +1,285 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 0.0,
+            "end": 15.52,
+            "text": " What's up guys! We've come to the GARVY video, we've completed 10 videos in Sigma web development course  and we've become a part of the consistency of all of them  Today we'll look at the video about the semantic tax  because there are a lot of important things for SEO  and to understand the structure of the overall website"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 15.52,
+            "end": 31.06,
+            "text": " the search engines are very happy to see this structure  that is, if you use the overall SEO website,  what are the tags? Why are they using tags?  What's the benefit of this video?  Let's go to the video screen and let's roll the intro"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 40.26,
+            "end": 55.6,
+            "text": " So, before the semantic tax, I want to tell you why  you can see that I've made a filter of video 11  and here I've set a polyplate template  and set a title  and then I'll go to preview it"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 55.6,
+            "end": 69.28,
+            "text": " So, this is the image, let me explain it to you  what are the semantic tax  semantic tax browsers and web crawlers  which you want to understand properly  and tell you what your website content is"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 69.28,
+            "end": 84.22,
+            "text": " and what's the status of this track?  If you don't use semantic tax in HTML,  your work will be done  If you don't use semantic tax,  your website will not look good"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 84.22,
+            "end": 94.4,
+            "text": " you can do good designing  but we want to understand how to search engines  and how to bang the search engines  about our website  and if we'll understand them"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 94.4,
+            "end": 108.78,
+            "text": " about our website, we'll understand them  and we'll rank them on Google  and on the respective search engines  and we want to understand the crawlers' website  and we want to understand all our websites"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 108.78,
+            "end": 121.41999999999999,
+            "text": " that's why we want to understand them  so some special tags are like  header, nav, main, article, figure  all these special tags are made in HTML  which you'll help in creating a web site"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 121.41999999999999,
+            "end": 129.7,
+            "text": " If there's anything inside the header,  then I know that it's header  or it's at the top  If there's anything inside the footer, then I'll understand  that from here the website end is the footer"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 129.7,
+            "end": 138.58,
+            "text": " and here it's the footer  it could've been a div  but if I'm using semantic tax,  then I'll use footer tag  and with that,"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 138.58,
+            "end": 149.94,
+            "text": " I'll create a navigation bar  where I'll make a new navigation bar  I'll make a new navigation bar  and I'll make a new tag  So this is how the differences are"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 149.94,
+            "end": 162.54000000000002,
+            "text": " in our search engines  and we'll understand the website  okay?  So I'll show you some semantic tags here  and I hope you understand what's the semantic tags are"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 162.54000000000002,
+            "end": 170.38,
+            "text": " Now look, there are download folders like this  like our computer  You'll get a lot of download folders  like the one you've been to  all the files of the world"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 170.38,
+            "end": 180.01999999999998,
+            "text": " Your computer's 90% of the files  are all downloaded folders  but we shouldn't do that  Some people go to this point  that they start to file their local DCs"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 180.01999999999998,
+            "end": 189.1,
+            "text": " Windows folders  and some people start to file their files  and some people  keep the system 32 and file in them  So if you guys"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 189.1,
+            "end": 196.1,
+            "text": " file your files,  you'll get a lot of them  so definitely,  it's not an orange  but if you keep the folders arranged"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 196.1,
+            "end": 203.98,
+            "text": " you'll get a folder in it  and this is the file  If you want to keep a secret file  put a folder in it  and put a secret file in it"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 203.98,
+            "end": 212.57999999999998,
+            "text": " You can do a folder  and open it  and if you can put some files in it  it will be arranged like this  You've arranged images like this"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 212.57999999999998,
+            "end": 221.38,
+            "text": " You've arranged videos like this  and you've arranged the ebook like this  so whenever you go to find it  you'll get it  So you'll understand"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 221.38,
+            "end": 230.9,
+            "text": " it will be better  that folder is structured instead of  If you're using your files  throughout the computer  you'll definitely not want to use the files"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 230.9,
+            "end": 240.9,
+            "text": " So I hope you guys understand  why we use semantic tags  This is very important for SEO  So it's not used in SEO  but SEO"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 240.9,
+            "end": 250.9,
+            "text": " is used in a very important  semantic text  So what happens?  Basically, you make your website  and you use some special tags"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 250.9,
+            "end": 260.9,
+            "text": " For example, let's make this website  Okay, I'll also do some comments  I'll comment on this image  and I'll not comment on the semantic tags  I'll do a new one"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 260.9,
+            "end": 270.9,
+            "text": " So what will I do?  First of all, I'll say that this is my website's header  I've used this header tag  I'll make a new one  I'll make an unordered list"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 270.9,
+            "end": 280.9,
+            "text": " I'll make an LI  and I'll write home  and then I'll write all this  and this is my header  So no one will understand"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 280.9,
+            "end": 290.9,
+            "text": " that this is my header  Home about contact  I want to write it here  So this is my header  and I'll explain it in a quick way"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 290.9,
+            "end": 300.9,
+            "text": " because I've used the header and nav tags  So I'll write about it  and then I'll write contact  So I've written home  and then I'll write about it"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 300.9,
+            "end": 310.9,
+            "text": " So I hope you guys understood  I want to make a footer  and then I'll write my main content  and then I'll use the main tag  and then my footer"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 310.9,
+            "end": 320.9,
+            "text": " I'll write in the footer  Copyright, CWH  and then I'll write all rights  Reserved  Okay, I'll write it in this way"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 320.9,
+            "end": 330.9,
+            "text": " So you see here  Copyright, all rights reserved  I've written here  So I'll cut it  and then I'll put it in the main"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 330.9,
+            "end": 339.9,
+            "text": " I'll put it in the main content  So first I'll write the main content  and then I'll write footer  and then I'll write here  and you see here"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 339.9,
+            "end": 349.9,
+            "text": " and here's my main content  and then I'll arrange it  and then you arrange files  within different folders  I've arranged HTML tags"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 349.9,
+            "end": 359.9,
+            "text": " So we'll explain it in a header tag  and then we'll explain it in a header  Then we'll put nav tag  in the navigation menu  and then we'll put nav tag"
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 359.9,
+            "end": 381.9,
+            "text": " Article indicates a self-containing  If you add a self content piece of content, then add an article tag in it.  Section 1, a theme, grouping, or any other section of the page.  If you talk about something, then you will talk about something else.  If you are using a side tag, then you will use it."
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 381.9,
+            "end": 417.9,
+            "text": " Typically, use for side bars and content that is tangentially related to the main content.  You can add a side note about the author, or blog, or the site you want to add.  Then, you can add a footer tag.  You can add a link to the site.  Then, figure and pick caption."
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 417.9,
+            "end": 449.9,
+            "text": " The main content is the main tag that is used in the main content.  If you add a time tag, then you can use it in time tag.  You will understand the things you are using.  You can use it in enhancing SEO.  You can read the content in the page."
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 449.9,
+            "end": 497.9,
+            "text": " You can decide the main content.  You will need to read the main content.  The main content is the main content.  The main content is the main content.  You can use browser, Google, Bing, Cell, or any other preview."
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 497.9,
+            "end": 557.9,
+            "text": " If you want to understand your content, then you will use it in semantic tags.  If you write in semantic tags, then you will write in semantic tags.  You can use it in semantic tags.  You can use it in semantic tags.  You can see the examples of header and footer tag."
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 557.9,
+            "end": 607.9,
+            "text": " You can see the navigation bar in header and footer tag.  You can see the navigation bar in header and footer tag.  You can see the examples of header and footer tag.  You can see the examples of header and footer tag.  You can see the examples of header and footer tag."
+        },
+        {
+            "number": "11",
+            "title": "Semantic Tags  in HTML",
+            "start": 607.9,
+            "end": 647.9,
+            "text": " You can see the examples of header and footer tag.  You can see the examples of header and footer tag."
+        }
+    ],
+    "text": " What's up guys! We've come to the GARVY video, we've completed 10 videos in Sigma web development course and we've become a part of the consistency of all of them Today we'll look at the video about the semantic tax because there are a lot of important things for SEO and to understand the structure of the overall website the search engines are very happy to see this structure that is, if you use the overall SEO website, what are the tags? Why are they using tags? What's the benefit of this video? Let's go to the video screen and let's roll the intro So, before the semantic tax, I want to tell you why you can see that I've made a filter of video 11 and here I've set a polyplate template and set a title and then I'll go to preview it So, this is the image, let me explain it to you what are the semantic tax semantic tax browsers and web crawlers which you want to understand properly and tell you what your website content is and what's the status of this track? If you don't use semantic tax in HTML, your work will be done If you don't use semantic tax, your website will not look good you can do good designing but we want to understand how to search engines and how to bang the search engines about our website and if we'll understand them about our website, we'll understand them and we'll rank them on Google and on the respective search engines and we want to understand the crawlers' website and we want to understand all our websites that's why we want to understand them so some special tags are like header, nav, main, article, figure all these special tags are made in HTML which you'll help in creating a web site If there's anything inside the header, then I know that it's header or it's at the top If there's anything inside the footer, then I'll understand that from here the website end is the footer and here it's the footer it could've been a div but if I'm using semantic tax, then I'll use footer tag and with that, I'll create a navigation bar where I'll make a new navigation bar I'll make a new navigation bar and I'll make a new tag So this is how the differences are in our search engines and we'll understand the website okay? So I'll show you some semantic tags here and I hope you understand what's the semantic tags are Now look, there are download folders like this like our computer You'll get a lot of download folders like the one you've been to all the files of the world Your computer's 90% of the files are all downloaded folders but we shouldn't do that Some people go to this point that they start to file their local DCs Windows folders and some people start to file their files and some people keep the system 32 and file in them So if you guys file your files, you'll get a lot of them so definitely, it's not an orange but if you keep the folders arranged you'll get a folder in it and this is the file If you want to keep a secret file put a folder in it and put a secret file in it You can do a folder and open it and if you can put some files in it it will be arranged like this You've arranged images like this You've arranged videos like this and you've arranged the ebook like this so whenever you go to find it you'll get it So you'll understand it will be better that folder is structured instead of If you're using your files throughout the computer you'll definitely not want to use the files So I hope you guys understand why we use semantic tags This is very important for SEO So it's not used in SEO but SEO is used in a very important semantic text So what happens? Basically, you make your website and you use some special tags For example, let's make this website Okay, I'll also do some comments I'll comment on this image and I'll not comment on the semantic tags I'll do a new one So what will I do? First of all, I'll say that this is my website's header I've used this header tag I'll make a new one I'll make an unordered list I'll make an LI and I'll write home and then I'll write all this and this is my header So no one will understand that this is my header Home about contact I want to write it here So this is my header and I'll explain it in a quick way because I've used the header and nav tags So I'll write about it and then I'll write contact So I've written home and then I'll write about it So I hope you guys understood I want to make a footer and then I'll write my main content and then I'll use the main tag and then my footer I'll write in the footer Copyright, CWH and then I'll write all rights Reserved Okay, I'll write it in this way So you see here Copyright, all rights reserved I've written here So I'll cut it and then I'll put it in the main I'll put it in the main content So first I'll write the main content and then I'll write footer and then I'll write here and you see here and here's my main content and then I'll arrange it and then you arrange files within different folders I've arranged HTML tags So we'll explain it in a header tag and then we'll explain it in a header Then we'll put nav tag in the navigation menu and then we'll put nav tag Article indicates a self-containing If you add a self content piece of content, then add an article tag in it. Section 1, a theme, grouping, or any other section of the page. If you talk about something, then you will talk about something else. If you are using a side tag, then you will use it. Typically, use for side bars and content that is tangentially related to the main content. You can add a side note about the author, or blog, or the site you want to add. Then, you can add a footer tag. You can add a link to the site. Then, figure and pick caption. The main content is the main tag that is used in the main content. If you add a time tag, then you can use it in time tag. You will understand the things you are using. You can use it in enhancing SEO. You can read the content in the page. You can decide the main content. You will need to read the main content. The main content is the main content. The main content is the main content. You can use browser, Google, Bing, Cell, or any other preview. If you want to understand your content, then you will use it in semantic tags. If you write in semantic tags, then you will write in semantic tags. You can use it in semantic tags. You can use it in semantic tags. You can see the examples of header and footer tag. You can see the navigation bar in header and footer tag. You can see the navigation bar in header and footer tag. You can see the examples of header and footer tag. You can see the examples of header and footer tag. You can see the examples of header and footer tag. You can see the examples of header and footer tag. You can see the examples of header and footer tag."
+}

@@ -1,0 +1,6 @@
+I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Semantic Tags  in HTML","number":"11","start":230.9,"end":240.9,"text":" So I hope you guys understand  why we use semantic tags  This is very important for SEO  So it's not used in SEO  but SEO"},{"title":"Semantic Tags  in HTML","number":"11","start":129.7,"end":138.58,"text":" and here it's the footer  it could've been a div  but if I'm using semantic tax,  then I'll use footer tag  and with that,"},{"title":"Semantic Tags  in HTML","number":"11","start":240.9,"end":250.9,"text":" is used in a very important  semantic text  So what happens?  Basically, you make your website  and you use some special tags"}]
+---------------------------------
+"where does semantic tags is taught in this course"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

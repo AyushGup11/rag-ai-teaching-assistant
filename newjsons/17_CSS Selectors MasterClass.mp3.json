@@ -1,0 +1,397 @@
+{
+    "chunks": [
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 0.0,
+            "end": 27.0,
+            "text": " We talked about selectors and we said that selectors are used to select any element  which will apply on the style.  We can apply the elements on the style of the element and how can we select the elements.  For example, with an ID, we can target the element by its name.  And we can also decide that if the element of a particular type is the same as the one in the element,"
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 27.0,
+            "end": 44.0,
+            "text": " we will explain the rules in this video.  And we will explain the selectors.  In this course, we will definitely write a signature patch in the comment section.  We have to maintain the high energy throughout the course.  You all want to give the heads up, this video is a very important video of CSS."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 44.0,
+            "end": 67.0,
+            "text": " We will see a big improvement in the computer screen.  Let's roll the intro.  I have already made my computer screen and the first thing I am going to do is make a folder of the video 17.  In the video 17, I will say CSS.  It is one of the most important videos."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 67.0,
+            "end": 94.0,
+            "text": " Because if you are a selector like this, then your work will be very easy.  I will make this video 17 from the name of the video, index.html, and I will use the internal CSS style sheet.  So that you can see how I am doing it.  I will do a lot of things here, I will turn on the water, I will turn on the screen,  so that whatever button I press, you all will know."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 94.0,
+            "end": 109.0,
+            "text": " And I will take CSS selector and I will make a div here.  And I have made a div here.  I am a div here.  If you have not done the access yet, then you should start the development of the Sigma Web.  And the source code is going to be updated."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 109.0,
+            "end": 123.0,
+            "text": " So no worry, you should not come to the next garden.  Now I am going to do a simple work.  I will preview it.  And I want to red the background of the div.  Now why do you want to red background?"
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 123.0,
+            "end": 134.0,
+            "text": " Because I want to take the div as much space as I want.  So I want to red.  So I want to red it.  So I will simply red the background.  So I will say that I will take div here."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 134.0,
+            "end": 151.0,
+            "text": " I will take a style tag.  I will say that I will do the div background color red.  Now this is our property, this is the value.  Now I will tell you about the other properties and values.  But now you understand that this is property and this is the value."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 151.0,
+            "end": 165.0,
+            "text": " So this I have done here, this was the element selector.  So I will write here element selector.  And I will comment on this.  I will write some comments in CSS.  Now I will write the star in the star forward slash."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 165.0,
+            "end": 182.0,
+            "text": " So I have written this element selector.  So you can see that the background is red.  So this was our element selector.  Now I have made the elements selector.  Now I will add the other div here."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 182.0,
+            "end": 201.0,
+            "text": " So what will be the background of this div?  And it can be said that you want to red the background of this div.  So if you want to red the background of this div, what will you do?  Definitely you will use any other selector here.  And you will want to use any specific selector."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 201.0,
+            "end": 213.0,
+            "text": " So I can say that you do one thing.  Where the class red is, just red the only div.  So I have reded the class as well.  Now I have reded the class as well.  You will see what will be found here."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 213.0,
+            "end": 228.0,
+            "text": " I will write here dot red.  And after that I will red the background of this div.  I will comment on this.  I don't want all the divs red to be red.  So I will show you only this div."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 228.0,
+            "end": 240.0,
+            "text": " As you can see here.  So this is the class selector.  This is our class selector.  I will write here class selector.  Now I am going to tell you the next selector."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 240.0,
+            "end": 256.0,
+            "text": " It is ID selector.  And you guys have guessed the ID selector.  I want the red ID of the hashtag red.  Here we will do a hashtag green name ID.  And I will write background color green."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 256.0,
+            "end": 268.0,
+            "text": " So wherever I will add ID green, it will be green.  You can see here that this is our I am another div.  This is the color of this.  This is the background color.  But as I will add ID green, I will show you."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 268.0,
+            "end": 281.0,
+            "text": " I will write here.  I will give you ID of this.  And you can see that I have given the background color green in the name of the green name ID.  So this is our ID selector.  It is very simple."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 281.0,
+            "end": 293.0,
+            "text": " Yes, it is very simple.  We will do simple things here.  Now I will tell you what are the child selector.  And the source code will work the notes here.  So what are the child selector?"
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 293.0,
+            "end": 307.0,
+            "text": " I want the paragraph of the div in the paragraph.  So I will tell you the paragraph inside the div.  The color of the paragraph is blue.  And what is the background color?  The background color will be brown."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 307.0,
+            "end": 318.0,
+            "text": " Okay, I want this.  So if I add a paragraph inside the div.  I am a paragraph inside the div.  So what will be the selector?  The child selector."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 318.0,
+            "end": 331.0,
+            "text": " Because this is the child div.  This paragraph is the child div.  And I said that there is no paragraph if the child is child.  So what will be the background color?  So the background color will be brown."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 331.0,
+            "end": 341.0,
+            "text": " And the color will be blue.  As simple as that.  Okay, now I will show you something.  If you know that I will wrap this in a div.  In fact, I will not span this."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 341.0,
+            "end": 354.0,
+            "text": " I will not div.  I will add some other element in the div.  I will use the article text.  So now this paragraph is not in the div.  Now this paragraph is not in the div."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 354.0,
+            "end": 368.0,
+            "text": " So I will show you this paragraph.  Now this paragraph is not in the div.  Because this selector means that if I enter the div directly.  If I enter the div directly, what will happen?  This selector will not apply."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 368.0,
+            "end": 380.0,
+            "text": " This is not the direct child.  The article is in the div.  Then it will be the same.  This is not the direct child div.  But if I want to say that if any paragraph is dissident to a div."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 380.0,
+            "end": 389.0,
+            "text": " Then this is the property.  So what I will do?  Then I have another way to show you.  I will simply do this.  I will say,"
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 389.0,
+            "end": 401.0,
+            "text": " I will use decedent selector.  And what is decedent selector?  We will write this simply by decedent selector.  I will write a div.  I will write a space and then I will write a p."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 401.0,
+            "end": 412.0,
+            "text": " I am saying that it should be in div.  It should also be in the div.  It should be in the article, in the main, in the footer.  It should be in div.  It should be in the form of a div."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 412.0,
+            "end": 423.0,
+            "text": " It should be in the form of a div.  So you see that this is the property.  But when I talk about the child selector,  then the child selector should be direct child.  Then it will be in div."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 423.0,
+            "end": 436.0,
+            "text": " I hope that this is the sense of making you guys.  Now after this, it is another universal selector.  I want all the elements in the mind.  I want to margin 0 and I want to add 0.  I will write p 0 in the mind."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 436.0,
+            "end": 452.0,
+            "text": " I will write p 0.  I will write a padding 0.  All the elements in the mind were added as crouching here.  First it was paying more padding to the root on the box where the label is beginning to be enabled.  So you guys saw that ."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 452.0,
+            "end": 461.0,
+            "text": " I hope you all understood that.  Take notes of selection of the change and also quantity of selector.  But these are the most used selectors.  Now I will tell you about all the more selectors.  I will talk more about the move of the common values"
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 461.0,
+            "end": 474.0,
+            "text": " but these are the values in which we will development to our web.  At least I wanted to confuse you all  You can check the main selector in the main menu.  I will go to the main selector.  This is the most important."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 474.0,
+            "end": 486.0,
+            "text": " It has 95% of the websites.  Let's focus on this.  I hope you guys understood this.  You guys understood this very well.  Let me tell you another important warning."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 486.0,
+            "end": 497.0,
+            "text": " What is the name of this?  Seudo Selectors.  I know that I have a link.  I will give you a link.  I will give you a universal selector."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 497.0,
+            "end": 512.0,
+            "text": " Universal selector.  What is the universal selector?  Why is the comment not working?  I will write it in the assembly.  PCUdo."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 512.0,
+            "end": 523.0,
+            "text": " PCUdo.  Yes, it is called the PCUdo.  It is called PCUdo.  It is not a pinimony.  It is a P silent."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 523.0,
+            "end": 533.0,
+            "text": " I need to tell you a comment section.  I had a silent.  I have a comment section.  I have a comment section.  I will tell you the information."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 533.0,
+            "end": 543.0,
+            "text": " Seudo Selectors.  I have a link.  What is the link?  LIN.  I will give you a link."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 543.0,
+            "end": 554.96,
+            "text": " Https www.Google.com.  I will give you a go to Google.  Go to Google.  You will go to Google and do what was in the text of this slide in 2020.  I will show you a Slide of\u6a19."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 554.96,
+            "end": 571.0,
+            "text": " I want to tell you here that this slide from LA.  I never go to Google with white hand.  I will mark this placement.  I want to see this slide in theManual format.  I will tell you this slide from the class."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 571.0,
+            "end": 590.0,
+            "text": " I will tell you in nature of these slide here.  To\ufffdAzmeq.  If I want to enter the user's visit, I can use the pseudo selector.  You can change the color of the user's visit.  If you click a link,"
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 590.0,
+            "end": 611.0,
+            "text": " it will not be a visit.  If you want to enter the link,  what will be the color?  I will go to Facebook in the description.  I have already visited Facebook."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 611.0,
+            "end": 634.0,
+            "text": " I will not do Facebook.  I have visited Facebook.  I have already visited Facebook.  I will tell you about two more selector.  One is Aactive."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 634.0,
+            "end": 649.0,
+            "text": " I will show you the pseudo selector in your suggestion.  I want the red color of the Aactive.  I will click on the link and the red color of the background.  When you click,  you will see Google.com."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 649.0,
+            "end": 664.0,
+            "text": " I will click on the red color of the background.  I don't want to use the red color of the background.  I will red it.  I will red it.  I will red it."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 664.0,
+            "end": 684.0,
+            "text": " There are some pseudo selector.  The answer is yes.  If I want to red it.  I want the background color red.  I will hover it."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 684.0,
+            "end": 705.0,
+            "text": " You can see that the background color is going to be yellow.  I have written A hover.  I will show you the yellow.  I will tell you one more pseudo selector.  I have a div that is a class model selector."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 705.0,
+            "end": 720.0,
+            "text": " I will write a selector.  I will give you one.  You can don't confuse the selector.  Now I will give you the first Childs.  I will write a little bit of the trick."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 720.0,
+            "end": 744.0,
+            "text": " This pseudo selector is the first child.  I have written the first child background color.  This means the first child of the parent is the second child.  I have added a main tag here and here I am first and here I am second.  You can see here where the main first child is P, which is here."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 744.0,
+            "end": 767.0,
+            "text": " P is the parent's first child.  This will apply in this class.  So see that the background is black and it is not.  But I will tell you something very useful when you are developing web.  So you can search for more links in the description box below."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 767.0,
+            "end": 787.0,
+            "text": " If you want to see more additional reading material, then you can find the link in the description.  I will also put in the pinned comment.  If you want to see more, then please give me the link.  You can read about the selectors.  Now we will move on to the main things."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 787.0,
+            "end": 799.0,
+            "text": " We have to come to the project very soon.  We have to make good real world apps.  And we have to do the back end database.  So we have to build a little bit of the space here.  I hope you are enjoying this course."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 799.0,
+            "end": 807.0,
+            "text": " If you haven't done this yet, then do it now.  Click on the bookmark and save it.  So access the playlist.  Access the GitHub code.  Like the video."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 807.0,
+            "end": 817.0,
+            "text": " Share it.  And share your village and town.  I will meet you in the next video.  Thank you so much guys for watching this video.  And I will see you next time."
+        },
+        {
+            "number": "17",
+            "title": "CSS Selectors MasterClass",
+            "start": 838.0,
+            "end": 839.0,
+            "text": " Bye."
+        }
+    ],
+    "text": " We talked about selectors and we said that selectors are used to select any element which will apply on the style. We can apply the elements on the style of the element and how can we select the elements. For example, with an ID, we can target the element by its name. And we can also decide that if the element of a particular type is the same as the one in the element, we will explain the rules in this video. And we will explain the selectors. In this course, we will definitely write a signature patch in the comment section. We have to maintain the high energy throughout the course. You all want to give the heads up, this video is a very important video of CSS. We will see a big improvement in the computer screen. Let's roll the intro. I have already made my computer screen and the first thing I am going to do is make a folder of the video 17. In the video 17, I will say CSS. It is one of the most important videos. Because if you are a selector like this, then your work will be very easy. I will make this video 17 from the name of the video, index.html, and I will use the internal CSS style sheet. So that you can see how I am doing it. I will do a lot of things here, I will turn on the water, I will turn on the screen, so that whatever button I press, you all will know. And I will take CSS selector and I will make a div here. And I have made a div here. I am a div here. If you have not done the access yet, then you should start the development of the Sigma Web. And the source code is going to be updated. So no worry, you should not come to the next garden. Now I am going to do a simple work. I will preview it. And I want to red the background of the div. Now why do you want to red background? Because I want to take the div as much space as I want. So I want to red. So I want to red it. So I will simply red the background. So I will say that I will take div here. I will take a style tag. I will say that I will do the div background color red. Now this is our property, this is the value. Now I will tell you about the other properties and values. But now you understand that this is property and this is the value. So this I have done here, this was the element selector. So I will write here element selector. And I will comment on this. I will write some comments in CSS. Now I will write the star in the star forward slash. So I have written this element selector. So you can see that the background is red. So this was our element selector. Now I have made the elements selector. Now I will add the other div here. So what will be the background of this div? And it can be said that you want to red the background of this div. So if you want to red the background of this div, what will you do? Definitely you will use any other selector here. And you will want to use any specific selector. So I can say that you do one thing. Where the class red is, just red the only div. So I have reded the class as well. Now I have reded the class as well. You will see what will be found here. I will write here dot red. And after that I will red the background of this div. I will comment on this. I don't want all the divs red to be red. So I will show you only this div. As you can see here. So this is the class selector. This is our class selector. I will write here class selector. Now I am going to tell you the next selector. It is ID selector. And you guys have guessed the ID selector. I want the red ID of the hashtag red. Here we will do a hashtag green name ID. And I will write background color green. So wherever I will add ID green, it will be green. You can see here that this is our I am another div. This is the color of this. This is the background color. But as I will add ID green, I will show you. I will write here. I will give you ID of this. And you can see that I have given the background color green in the name of the green name ID. So this is our ID selector. It is very simple. Yes, it is very simple. We will do simple things here. Now I will tell you what are the child selector. And the source code will work the notes here. So what are the child selector? I want the paragraph of the div in the paragraph. So I will tell you the paragraph inside the div. The color of the paragraph is blue. And what is the background color? The background color will be brown. Okay, I want this. So if I add a paragraph inside the div. I am a paragraph inside the div. So what will be the selector? The child selector. Because this is the child div. This paragraph is the child div. And I said that there is no paragraph if the child is child. So what will be the background color? So the background color will be brown. And the color will be blue. As simple as that. Okay, now I will show you something. If you know that I will wrap this in a div. In fact, I will not span this. I will not div. I will add some other element in the div. I will use the article text. So now this paragraph is not in the div. Now this paragraph is not in the div. So I will show you this paragraph. Now this paragraph is not in the div. Because this selector means that if I enter the div directly. If I enter the div directly, what will happen? This selector will not apply. This is not the direct child. The article is in the div. Then it will be the same. This is not the direct child div. But if I want to say that if any paragraph is dissident to a div. Then this is the property. So what I will do? Then I have another way to show you. I will simply do this. I will say, I will use decedent selector. And what is decedent selector? We will write this simply by decedent selector. I will write a div. I will write a space and then I will write a p. I am saying that it should be in div. It should also be in the div. It should be in the article, in the main, in the footer. It should be in div. It should be in the form of a div. It should be in the form of a div. So you see that this is the property. But when I talk about the child selector, then the child selector should be direct child. Then it will be in div. I hope that this is the sense of making you guys. Now after this, it is another universal selector. I want all the elements in the mind. I want to margin 0 and I want to add 0. I will write p 0 in the mind. I will write p 0. I will write a padding 0. All the elements in the mind were added as crouching here. First it was paying more padding to the root on the box where the label is beginning to be enabled. So you guys saw that . I hope you all understood that. Take notes of selection of the change and also quantity of selector. But these are the most used selectors. Now I will tell you about all the more selectors. I will talk more about the move of the common values but these are the values in which we will development to our web. At least I wanted to confuse you all You can check the main selector in the main menu. I will go to the main selector. This is the most important. It has 95% of the websites. Let's focus on this. I hope you guys understood this. You guys understood this very well. Let me tell you another important warning. What is the name of this? Seudo Selectors. I know that I have a link. I will give you a link. I will give you a universal selector. Universal selector. What is the universal selector? Why is the comment not working? I will write it in the assembly. PCUdo. PCUdo. Yes, it is called the PCUdo. It is called PCUdo. It is not a pinimony. It is a P silent. I need to tell you a comment section. I had a silent. I have a comment section. I have a comment section. I will tell you the information. Seudo Selectors. I have a link. What is the link? LIN. I will give you a link. Https www.Google.com. I will give you a go to Google. Go to Google. You will go to Google and do what was in the text of this slide in 2020. I will show you a Slide of\u6a19. I want to tell you here that this slide from LA. I never go to Google with white hand. I will mark this placement. I want to see this slide in theManual format. I will tell you this slide from the class. I will tell you in nature of these slide here. To\ufffdAzmeq. If I want to enter the user's visit, I can use the pseudo selector. You can change the color of the user's visit. If you click a link, it will not be a visit. If you want to enter the link, what will be the color? I will go to Facebook in the description. I have already visited Facebook. I will not do Facebook. I have visited Facebook. I have already visited Facebook. I will tell you about two more selector. One is Aactive. I will show you the pseudo selector in your suggestion. I want the red color of the Aactive. I will click on the link and the red color of the background. When you click, you will see Google.com. I will click on the red color of the background. I don't want to use the red color of the background. I will red it. I will red it. I will red it. There are some pseudo selector. The answer is yes. If I want to red it. I want the background color red. I will hover it. You can see that the background color is going to be yellow. I have written A hover. I will show you the yellow. I will tell you one more pseudo selector. I have a div that is a class model selector. I will write a selector. I will give you one. You can don't confuse the selector. Now I will give you the first Childs. I will write a little bit of the trick. This pseudo selector is the first child. I have written the first child background color. This means the first child of the parent is the second child. I have added a main tag here and here I am first and here I am second. You can see here where the main first child is P, which is here. P is the parent's first child. This will apply in this class. So see that the background is black and it is not. But I will tell you something very useful when you are developing web. So you can search for more links in the description box below. If you want to see more additional reading material, then you can find the link in the description. I will also put in the pinned comment. If you want to see more, then please give me the link. You can read about the selectors. Now we will move on to the main things. We have to come to the project very soon. We have to make good real world apps. And we have to do the back end database. So we have to build a little bit of the space here. I hope you are enjoying this course. If you haven't done this yet, then do it now. Click on the bookmark and save it. So access the playlist. Access the GitHub code. Like the video. Share it. And share your village and town. I will meet you in the next video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}
